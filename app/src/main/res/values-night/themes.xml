@@ -1,0 +1,8 @@
+<resources>
+    <!-- Pas de thème sombre : on garde un fond clair pour garantir la lisibilité des couleurs. -->
+    <style name="Base.Theme.ContactsAppV4" parent="Theme.Material3.Light.NoActionBar">
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
+    </style>
+
+    <style name="Theme.ContactsAppV4" parent="Base.Theme.ContactsAppV4" />
+</resources>
