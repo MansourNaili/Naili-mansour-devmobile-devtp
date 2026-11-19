@@ -85,7 +85,7 @@ Commandes utiles :
 
 ## Livrables
 
-- `compte-rendu/compte_rendu_V4.pdf` : version PDF prête à rendre.
+- `compte-rendu/compte_rendu_V4.pdf` : version PDF
 - `captures/` : captures réelles de l'application (voir `captures/README.md`).
 - `tools/inspecter_base.bat` : inspection rapide de `contacts.db` via `adb` + `sqlite3`.
 - `.gitignore` : `local.properties` et dossiers de build exclus du dépôt.
